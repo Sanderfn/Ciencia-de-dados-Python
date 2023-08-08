@@ -2,5 +2,4 @@
 
 frutas = ("laranjas","pera","uva",)
 frutas[0]
-frutas[3]
-frutas[-1]
+frutas[2]

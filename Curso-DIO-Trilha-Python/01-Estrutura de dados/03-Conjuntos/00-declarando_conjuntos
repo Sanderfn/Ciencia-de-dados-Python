@@ -13,5 +13,5 @@ print(carros)  # {"gol", "celta", "palio"}
 carros = {"palio", "gol", "celta", "palio"}
 print(carros) # {"gol", "celta", "palio"}
 
-linguagens = {"java", "c","Python","C"}
-print(linguagens) 
+linguagens = {"java", "c","Python","c"}
+print(linguagens)

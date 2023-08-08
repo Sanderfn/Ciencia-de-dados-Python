@@ -1,6 +1,6 @@
 # Fatiamento -> Permite acessar elementos diretamente e permite extrair um conjunto de valores de uma sequência.
-# Para isso deve-se passar o índice inicial e/ou final para acessar o conjunto .
-# Podemos ainda informar quantas posições o cursos deve "pular" no acesso.
+    # Para isso deve-se passar o índice inicial e/ou final para acessar o conjunto .
+    # Podemos ainda informar quantas posições o cursos deve "pular" no acesso.
 
 tupla = ("p", "y", "t", "h","o","n",)
 

@@ -1,0 +1,4 @@
+
+frutas = ("laranjas","pera","uva",)
+frutas[-1]
+frutas[-3]
