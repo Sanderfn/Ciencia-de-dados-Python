@@ -1,4 +1,3 @@
-# Dicionários podem armazenar qualquer tipo de objeto Python como valor, desd que a chave esse valor seja um objeto imutável como (strings e números).
 
 contatos = {
     "guilherme@gmail.com": {"nome": "Guilherme", "telefone": "3333-2221"},
@@ -7,5 +6,5 @@ contatos = {
     "melaine@gmail.com": {"nome": "Melaine", "telefone": "3333-7766"},
 }
 
-telefone = contatos["giovanna@gmail.com"]["telefone"]  # "3443-2121"
-print(telefone)
+contatos.clear()
+print(contatos)  # {}
