@@ -9,7 +9,8 @@ saldo = 0
 limite = 1000
 extrato = " "
 numero_saques = 0
-LIMITE_SAQUES = 4 # Este valor é uma constante
+LIMITE_SAQUES = 3 # Este valor é uma constante
+
 
 while True:
 
@@ -40,9 +41,7 @@ while True:
         valor = float(input("\nInforme o valor do saque:"))
 
         excedeu_saldo = valor > saldo
-
         excedeu_limite = valor > limite
-
         excedeu_saque = numero_saques >= LIMITE_SAQUES
      
         if excedeu_saldo:

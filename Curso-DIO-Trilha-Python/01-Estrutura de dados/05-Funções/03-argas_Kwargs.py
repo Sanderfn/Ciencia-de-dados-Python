@@ -1,4 +1,4 @@
-# Args e Kwargs -> Podemos combinar os parametros obrogatórios com args e kwargs em uma função, quando esses valores são definidos (*args e **kwargs),
+# Args e Kwargs -> Podemos combinar os parametros obrigatórios com args e kwargs em uma função, quando esses valores são definidos (*args e **kwargs),
 # o método recebe os vlaores como tupla e dicionário respectivamente.
 # Args -> será recebido dados como uma tupla
 # Kwargs -> será recebido dados como um dicionário.
